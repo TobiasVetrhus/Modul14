@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Store
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ Store\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=int\ price()
+comment2.params=newPrice
+comment2.target=void\ setPrice(int)
+comment3.params=
+comment3.target=boolean\ inAssortment()
+comment4.params=
+comment4.target=java.lang.String\ name()
+comment5.params=
+comment5.target=void\ printDetails()
+comment6.params=
+comment6.target=java.lang.String\ race()
+numComments=7

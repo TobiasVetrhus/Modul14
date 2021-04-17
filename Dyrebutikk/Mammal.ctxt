@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Mammal
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ Mammal\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=java.lang.String\ habitat()
+comment2.params=
+comment2.target=boolean\ canFly()
+comment3.params=
+comment3.target=java.lang.String\ race()
+comment4.params=
+comment4.target=int\ weight()
+comment5.params=kgs
+comment5.target=void\ setWeight(int)
+numComments=6

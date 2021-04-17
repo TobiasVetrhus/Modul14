@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=animalShelter
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Dyrebutikk\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=animalShelter()
+comment2.params=raceID\ animal
+comment2.target=void\ addAnimal(java.lang.String,\ Animal)
+comment3.params=raceID
+comment3.target=boolean\ raceIDinUse(java.lang.String)
+comment4.params=raceID
+comment4.target=void\ printAnimal(java.lang.String)
+comment5.params=
+comment5.target=void\ printAllAnimals()
+comment6.params=price
+comment6.target=void\ printPerPrice(int)
+comment7.params=raceID
+comment7.target=void\ removeAnimal(java.lang.String)
+comment8.params=filename
+comment8.target=boolean\ createFile(java.lang.String)
+numComments=9
